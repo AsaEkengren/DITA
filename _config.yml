@@ -1,3 +1,5 @@
+remote_theme: mmistakes/minimal-mistakes
+
 lsi: false
 safe: true
 source: main
