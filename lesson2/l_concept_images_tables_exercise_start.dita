@@ -2,7 +2,28 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_images_tables_exercise">
  <title>Supporting marketing with technical content</title>
+
  <conbody>
+  
+  <simpletable>
+   <sthead>
+    <stentry><p>Age</p></stentry>
+    <stentry><p>Milestone</p></stentry>
+   </sthead>
+   
+   <strow>
+    <stentry><p>7 weeks</p></stentry>
+    <stentry><p>Attempt flight for the first time</p></stentry>
+   </strow>
+   <strow>
+    <stentry><p>12-14 weeks</p></stentry>
+    <stentry><p>Reach adult body weight</p></stentry>
+   </strow>
+   <strow>
+    <stentry><p>1 year</p></stentry>
+    <stentry><p>Capable of reproduction</p></stentry>
+   </strow>
+  </simpletable>
 
  </conbody>
 </concept>
