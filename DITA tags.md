@@ -27,9 +27,9 @@ conref to reference content
 <table>
 	<title> title for the table
 	<tgroup> columns specifications, header rows and body rows
-	<colspec> column widths and identifying info
-	<thead> table header rows
-	<tbody> table body rows
+		<colspec> column widths and identifying info
+		<thead> table header rows
+		<tbody> table body rows
 	<row> single row
 	<entry> data for table cell
 ```
