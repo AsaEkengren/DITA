@@ -96,5 +96,8 @@ conref to reference content
 ```
 <fn> Footnote
 <menucascade> Idicates the order of a menu path, such as File > Save As. The <menucascade> element must contain one or more <uicontrol> elements. Each <uicontrol> element contains the text for a menu item.
-<dl> Definition list--a list of terms and their corresponding definitions, presented in a format similar to a two-column table by default. The definition list contains one or more entries, tagged with the <dlentry> element, and each entry contains a term (tagged with the <dt> element) and one or more definitions (tagged with the <dd> element).
+<dl> Definition list--a list of terms and their corresponding definitions, presented in a format similar to a two-column table by default.
+	<dlentry> definition entry element
+	<dt> definition term
+	<dd>
 ```
