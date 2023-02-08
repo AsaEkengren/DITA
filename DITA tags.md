@@ -53,7 +53,7 @@ conref to reference content
 <vrm> product version, release, and modification information
 ```
 
-# STRICT TASK TOPIC
+# STRICT TASK TOPIC :triangular_flag_on_post:
 ```
 <taskbody> the body of the task topic
 <steps> the sequence of actions
