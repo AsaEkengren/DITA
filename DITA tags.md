@@ -95,9 +95,10 @@ conref to reference content
 # OTHER :triangular_flag_on_post:
 ```
 <fn> Footnote
-<menucascade> Idicates the order of a menu path, such as File > Save As. The <menucascade> element must contain one or more <uicontrol> elements. Each <uicontrol> element contains the text for a menu item.
+<menucascade> Order of a menu path, such as File > Save As
+	<uicontrol> text for a menu item
 <dl> Definition list--a list of terms and their corresponding definitions, presented in a format similar to a two-column table by default.
 	<dlentry> definition entry element
 	<dt> definition term
-	<dd>
+	<dd> full definition
 ```
