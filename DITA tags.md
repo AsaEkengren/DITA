@@ -97,7 +97,7 @@ conref to reference content
 <fn> Footnote
 <menucascade> Order of a menu path, such as File > Save As
 	<uicontrol> text for a menu item
-<dl> Definition list--a list of terms and their corresponding definitions, presented in a format similar to a two-column table by default.
+<dl> List of terms and definitions, presented in a format similar to a two-column table
 	<dlentry> definition entry element
 	<dt> definition term
 	<dd> full definition
