@@ -78,7 +78,7 @@ conref to reference content
 # GLOSSARY TOPIC :triangular_flag_on_post:
 ```
 <glossentry> the glossary entry topic type
-<glossterm> the word or phrase)
+<glossterm> the word or phrase
 <glossdef> the definition of the glossary term
 ```
 
