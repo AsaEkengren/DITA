@@ -95,10 +95,14 @@ conref to reference content
 # OTHER :triangular_flag_on_post:
 ```
 <fn> Footnote
-<menucascade> Order of a menu path, such as File > Save As
+<menucascade> order of a menu path, such as File > Save As
 	<uicontrol> text for a menu item
 <dl> List of terms and definitions, presented in a format similar to a two-column table
 	<dlentry> definition entry element
 	<dt> definition term
 	<dd> full definition
+<section> divides the body of a topic into subsections with individual titles
+	<title> heading, under which you can use the same elements allowed inside the <conbody> element, excluding another <section> element, an <example> element, or a <conbodydiv> element
+<draft-comment> comments and questions inserted into content while it is being developed
+<required-cleanup> wrap content that is tagged incorrectly and needs to be fixed
 ```
