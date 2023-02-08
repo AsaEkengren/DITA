@@ -17,6 +17,17 @@
 conref to reference content
 	<note conref="location.dita#topicid/whatduckslike"/>
 ```
+# IN-LINE STYLING :triangular_flag_on_post:
+```
+<b> bold text
+<i> italic text
+<u> underlined text
+<term> a word or phrase that needs a definition
+<cite> a word or phrase that needs a citation
+<varname> a word or phrase that may change based on the user’s circumstances
+<sub> subscript text
+<sup> superscript text
+```
 
 # TABLES :triangular_flag_on_post:
 ```
